@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/1a6d0ec4-879f-4ce2-90c0-64d5ff346c7d" width="180" style="border-radius: 70%; border: 4px solid #00BCD4; box-shadow: 0 0 15px #00BCD4;" alt="Profile Avatar" />
+ <img src="https://github.com/user-attachments/assets/7af920f7-4adf-4f91-a351-f7331678d055" width="180" style="border-radius: 70%; border: 4px solid #00BCD4; box-shadow: 0 0 15px #00BCD4;" alt="Profile Avatar" />
 
 </p>
 
